@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.appcenter:appium-test-extension:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/appium-test-extension/1.0/cd1da153bc4642180c9c127e53268ac008507b18/appium-test-extension-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/appium-test-extension/1.0/7fdd8949526363bbc4af70aac1c19f073ce05861/appium-test-extension-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
